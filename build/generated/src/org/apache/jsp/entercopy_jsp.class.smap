@@ -1,0 +1,15 @@
+SMAP
+entercopy_jsp.java
+JSP
+*S JSP
+*F
++ 0 entercopy.jsp
+entercopy.jsp
+*L
+1,150:45
+150,14:195
+164,11:210
+174,25:221
+199,13:247
+211,5:260
+*E
